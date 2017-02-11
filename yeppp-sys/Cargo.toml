@@ -1,0 +1,7 @@
+[package]
+name = "yeppp-sys"
+version = "0.1.0"
+authors = ["Alexander Ronald Altman <alexanderaltman@me.com>"]
+workspace = ".."
+
+[dependencies]
