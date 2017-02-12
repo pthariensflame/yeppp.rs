@@ -266,6 +266,16 @@ secring.*
 .svn/
 
 
+### https://raw.github.com/github/gitignore/26a147d00d26a47389bc28408afe1ee62bd78387/Global/Mercurial.gitignore
+
+.hg/
+.hgignore
+.hgsigs
+.hgsub
+.hgsubstate
+.hgtags
+
+
 ### https://raw.github.com/github/gitignore/26a147d00d26a47389bc28408afe1ee62bd78387/Global/Dropbox.gitignore
 
 # Dropbox settings and caches
